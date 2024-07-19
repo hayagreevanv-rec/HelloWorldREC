@@ -80,8 +80,8 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="353.6,125.6" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;Hiiii&quot;]" />
-    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="353.6,130.4" sap2010:WorkflowViewState.IdRef="WriteLine_2" Text="Hello" />
+    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Welcome-REC" sap:VirtualizedContainerService.HintSize="353.6,125.6" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;Hiiii&quot;]" />
+    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="353.6,130.4" sap2010:WorkflowViewState.IdRef="WriteLine_2" Text="ARPA Lab" />
     <Delay Duration="00:00:02" sap:VirtualizedContainerService.HintSize="353.6,113.6" sap2010:WorkflowViewState.IdRef="Delay_1" />
   </Sequence>
 </Activity>
